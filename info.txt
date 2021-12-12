@@ -1,0 +1,9 @@
+Run PHP 8 program on localhost using XAMPP
+
+
+PHP 8 : 26 Nov 2020
+XAMPP: Cress Platform, Apache Server, MySQL/MariaDB, PHP., Perl.
+
+XAMPP Location: C:/userxamp 
+Project Location: C:/userxampp/htdocs/FK/ 
+PHP File Location: C:/userxampp/htdocs/FK/index.php
